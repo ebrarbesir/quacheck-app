@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "265411045128",
+    "project_id": "quacheck-ad1d6",
+    "storage_bucket": "quacheck-ad1d6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265411045128:android:c77cf6d32ef68bd136aebd",
+        "android_client_info": {
+          "package_name": "com.example.quacheck"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOscYxjamgYGDIGS4_eWC77Bke4Jh1ejU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
